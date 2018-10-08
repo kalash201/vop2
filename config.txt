@@ -1,0 +1,6 @@
+token=NDk4NjkxMDMzMjE2MDU3MzU1.DpxaLQ.1UOUtWXAOzXgChB9ydKpFxDnOrE
+owner=464046823162511400
+prefix=J
+game=Tybe Jhelp
+stayinchannel=true
+songinstatus=true
